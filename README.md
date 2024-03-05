@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-terms-and-conditions-webview](modules/terms-and-conditions-webview)
 - [react-native-user-profile](modules/user-profile)
 - [terms-and-conditions]()
+- [profile]()
 
 # Getting started: Frontend
 
